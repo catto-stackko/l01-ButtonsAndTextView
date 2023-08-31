@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="shake_ball">Shake the Magic 8 Ball!</string>
+    <string name="hi_mom">Hi MOM</string>
+    <string name="magic_8_ball">Magic 8-Ball</string>
+    <string name="temp">temp</string>
+</resources>
